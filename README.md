@@ -12,7 +12,7 @@ Phone: x4431
 Quote of the Day:
 "There are two ways of constructing a software design:
  One way is to make it so simple that there are obviously no deficiencies.
- And the other way is to use npm."
+ The other involves a node_modules folder with 2,731 dependencies."
  --- C.A.R. Hoare (sort of)
  
 ```
