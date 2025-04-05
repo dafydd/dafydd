@@ -8,8 +8,6 @@ Machine: cside.swan.ac.uk
 Phone: x4431
 ```
 
---------------------------------------------
-
 ### Quote of the Day:
 > "There are two ways of constructing a software design:
 > One way is to make it so simple that there are obviously no deficiencies.
