@@ -6,8 +6,6 @@ Directory: /home/dafydd       Shell: /bin/zsh
 Email: 
 Machine:   cside.swan.ac.uk
 Phone:     x4431
-WWW:       https://dafydd.net
-Location:  London, UK
 
 "There are two ways of constructing a software design:
  One way is to make it so simple that there are obviously no deficiencies.
@@ -15,3 +13,5 @@ Location:  London, UK
  --- C.A.R. Hoare (sort of)
  
 ```
+- https://dafydd.net
+- London, UK
