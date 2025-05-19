@@ -6,6 +6,5 @@ Email:
 Machine:   cside.swan.ac.uk
 Phone:     x4431
 ```
-- testing testing 1 2 3
 - https://dafydd.net
 - London, UK
