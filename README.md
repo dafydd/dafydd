@@ -4,3 +4,5 @@ Directory: /home/dafydd                 Shell: /bin/zsh
 ```
 - https://dafydd.net
 - London, UK.
+
+- https://gist.github.com/dafydd
