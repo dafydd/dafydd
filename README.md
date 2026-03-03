@@ -5,4 +5,4 @@ Directory: /home/dafydd                 Shell: /bin/zsh
 
 - https://dafydd.net
 - https://gist.github.com/dafydd
-- London, UK.
+- London, UK
